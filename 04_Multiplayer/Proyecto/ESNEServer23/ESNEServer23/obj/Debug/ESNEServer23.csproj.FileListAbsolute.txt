@@ -1,0 +1,8 @@
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\bin\Debug\ESNEServer23.exe.config
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\bin\Debug\ESNEServer23.exe
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\bin\Debug\ESNEServer23.pdb
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\obj\Debug\ESNEServer23.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\obj\Debug\ESNEServer23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\obj\Debug\ESNEServer23.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\obj\Debug\ESNEServer23.exe
+C:\Users\Alumno\Documents\PROYECTOS\ESNEServer23\ESNEServer23\obj\Debug\ESNEServer23.pdb
